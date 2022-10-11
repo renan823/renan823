@@ -1,6 +1,5 @@
 ## Hello World! Aqui é o Renan ✌️
 - JavaScript ❤️<br>
-- Iniciante no Game Dev<br>
 - Estudante de tecnologias no tempo livre<br>
 - Linux >>>> Windows<br>
 
