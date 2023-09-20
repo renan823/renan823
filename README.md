@@ -5,9 +5,11 @@
 
 ## Meus Status
 <div align="center">
-  <a href="https://github.com/renan823">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renan823&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan823&layout=compact&langs_count=7&theme=dracula"/>
+   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=renan823&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renan823&hide=Html&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renan823&theme=radical) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renan823&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com?user=renan823&theme=radical&date_format=j%2Fn%5B%2FY%5D&type=png)](https://git.io/streak-stats) |
+| :-: | :-: |
 </div>
   
 ## Tecnologias
