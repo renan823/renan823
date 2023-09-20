@@ -4,12 +4,7 @@
 - Linux >>>> Windows<br>
 
 ## Meus Status
-<div align="center">
-   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=renan823&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renan823&hide=Html&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renan823&theme=radical) |
-| :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renan823&theme=radical) | [![GitHub Streak](https://streak-stats.demolab.com?user=renan823&theme=radical&date_format=j%2Fn%5B%2FY%5D&type=png)](https://git.io/streak-stats) |
-| :-: | :-: |
 </div>
   
 ## Tecnologias
