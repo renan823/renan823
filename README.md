@@ -1,9 +1,4 @@
-## Hello World! Aqui é o Renan ✌️
-- JavaScript ❤️<br>
-- Estudante de tecnologias no tempo livre<br>
-- Linux >>>> Windows<br>
 
-## Meus Status
 
 ![svg](./profile-3d-contrib/profile-night-rainbow.svg)
 
