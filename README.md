@@ -2,7 +2,7 @@
 - i don't like design
 - nodejs enthusiast
 - learning c (for university)
-- planning to learn kotlin (or rust?)
+- learning go (for fun?)
 
 ![svg](./profile-3d-contrib/profile-night-rainbow.svg)
 
