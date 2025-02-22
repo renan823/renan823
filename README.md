@@ -1,13 +1,13 @@
-## Hi :)
-- i don't like design
-- nodejs enthusiast
-- learning c (for university)
-- learning go (for fun?)
+## Hallo!
+- CS student at ICMC - USP
+- Currently learning C for university
+- Currently learning Go for personal projects
+- Backend developer
 
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,java,mysql,python,c" />
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,nodejs,java,go,c,mysql" />
   </a>
 </p>   
 
