@@ -7,9 +7,9 @@
 ### Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,typescript,nodejs,java,go,c,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,typescript,nodejs,go,c,postgresql" />
   </a>
-</p>   
+</p>
 
 ### Activity
 ![svg](./profile-3d-contrib/profile-night-rainbow.svg)
